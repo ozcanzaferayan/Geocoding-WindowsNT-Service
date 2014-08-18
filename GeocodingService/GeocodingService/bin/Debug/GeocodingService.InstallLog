@@ -1,0 +1,35 @@
+﻿Installing assembly 'C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
+   assemblypath = C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe assembly.
+Committing assembly 'C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
+   assemblypath = C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
+   assemblypath = C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+Installing service GeocodingService...
+Service GeocodingService has been successfully installed.
+Creating EventLog source GeocodingService in log Application...
+Committing assembly 'C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
+   assemblypath = C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+Uninstalling assembly 'C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
+   assemblypath = C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+Removing EventLog source GeocodingService.
+Service GeocodingService is being removed from the system...
+Service GeocodingService was successfully removed from the system.
+Attempt to stop service GeocodingService.

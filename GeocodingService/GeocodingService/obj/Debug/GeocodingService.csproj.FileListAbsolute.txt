@@ -1,0 +1,9 @@
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe.config
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\GeocodingService\GeocodingService\bin\Debug\GeocodingService.pdb
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\GeocodingService\GeocodingService\obj\Debug\GeocodingService.GeocodingService.resources
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\GeocodingService\GeocodingService\obj\Debug\GeocodingService.csproj.GenerateResource.Cache
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\GeocodingService\GeocodingService\obj\Debug\GeocodingService.exe
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\GeocodingService\GeocodingService\obj\Debug\GeocodingService.pdb
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\GeocodingService\GeocodingService\obj\Debug\GeocodingService.csprojResolveAssemblyReference.cache
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\GeocodingService\GeocodingService\obj\Debug\GeocodingService.ProjectInstaller.resources
