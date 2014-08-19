@@ -265,3 +265,89 @@ Affected parameters are:
    logtoconsole = 
    logfile = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
    assemblypath = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+Uninstalling assembly 'C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
+   assemblypath = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+Removing EventLog source GeocodingService.
+Service GeocodingService is being removed from the system...
+Service GeocodingService was successfully removed from the system.
+Attempt to stop service GeocodingService.
+Installing assembly 'C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
+   assemblypath = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+Installing service GeocodingService...
+Service GeocodingService has been successfully installed.
+Creating EventLog source GeocodingService in log Application...
+Committing assembly 'C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
+   assemblypath = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+Uninstalling assembly 'C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
+   assemblypath = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+Removing EventLog source GeocodingService.
+Service GeocodingService is being removed from the system...
+Service GeocodingService was successfully removed from the system.
+Attempt to stop service GeocodingService.
+Installing assembly 'C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
+   assemblypath = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+Installing service GeocodingService...
+Service GeocodingService has been successfully installed.
+Creating EventLog source GeocodingService in log Application...
+Committing assembly 'C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
+   assemblypath = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+Uninstalling assembly 'C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
+   assemblypath = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+Removing EventLog source GeocodingService.
+Service GeocodingService is being removed from the system...
+Service GeocodingService was successfully removed from the system.
+Installing assembly 'C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
+   assemblypath = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+Installing service GeocodingService...
+Service GeocodingService has been successfully installed.
+Creating EventLog source GeocodingService in log Application...
+Committing assembly 'C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
+   assemblypath = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+Uninstalling assembly 'C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
+   assemblypath = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+Removing EventLog source GeocodingService.
+Service GeocodingService is being removed from the system...
+Service GeocodingService was successfully removed from the system.
+Installing assembly 'C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
+   assemblypath = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+Installing service GeocodingService...
+Service GeocodingService has been successfully installed.
+Creating EventLog source GeocodingService in log Application...
+Committing assembly 'C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.InstallLog
+   assemblypath = C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe

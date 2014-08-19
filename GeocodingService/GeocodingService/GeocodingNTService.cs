@@ -8,6 +8,7 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.InteropServices;
+using System.Threading;
 
 namespace GeocodingService
 {
@@ -43,18 +44,23 @@ namespace GeocodingService
         protected override void OnStart(string[] args)
         {
             eventLog1.WriteEntry("In OnStart");
-            // Set up a timer to trigger every minute.
             System.Timers.Timer timer = new System.Timers.Timer();
-            timer.Interval = 30000; // 30 seconds
+            timer.Interval = 15000; // 15 seconds
             timer.Elapsed += new System.Timers.ElapsedEventHandler(this.OnTimer);
             timer.Start();
         }
 
         private void OnTimer(object sender, System.Timers.ElapsedEventArgs e)
         {
-            Parallel.Invoke(
-                () => c1.DoOperation(eventLog1),
-                () => c2.DoOperation(eventLog1));
+            //Parallel.Invoke(
+            //    () => c1.DoOperation(eventLog1),
+            //    () => c2.DoOperation(eventLog1));
+            Thread t1 = new Thread(delegate() { c1.DoOperation(eventLog1); });
+            Thread t2 = new Thread(delegate() { c2.DoOperation(eventLog1); });
+            t1.Start();
+            Thread.Sleep(1000);
+            t2.Start();
+            Thread.Sleep(1000);
         }
 
         protected override void OnStop()

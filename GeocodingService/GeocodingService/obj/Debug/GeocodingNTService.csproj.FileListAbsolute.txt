@@ -6,3 +6,4 @@ C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingServi
 C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\obj\Debug\GeocodingService.exe
 C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\obj\Debug\GeocodingService.pdb
 C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\obj\Debug\GeocodingService.GeocodingNTService.resources
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\obj\Debug\GeocodingNTService.csprojResolveAssemblyReference.cache
