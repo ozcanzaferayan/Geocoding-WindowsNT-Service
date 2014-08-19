@@ -44,11 +44,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GeocodingService.cs">
+    <Compile Include="Controller.cs" />
+    <Compile Include="DatabaseOperations.cs" />
+    <Compile Include="GeocodingNTService.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="GeocodingService.Designer.cs">
-      <DependentUpon>GeocodingService.cs</DependentUpon>
+    <Compile Include="GeocodingNTService.Designer.cs">
+      <DependentUpon>GeocodingNTService.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="ProjectInstaller.cs">
@@ -58,13 +60,14 @@
       <DependentUpon>ProjectInstaller.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReverseGeocodingService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="GeocodingService.resx">
-      <DependentUpon>GeocodingService.cs</DependentUpon>
+    <EmbeddedResource Include="GeocodingNTService.resx">
+      <DependentUpon>GeocodingNTService.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ProjectInstaller.resx">
       <DependentUpon>ProjectInstaller.cs</DependentUpon>

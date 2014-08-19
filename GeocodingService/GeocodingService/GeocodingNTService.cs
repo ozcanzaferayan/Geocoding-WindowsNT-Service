@@ -11,11 +11,12 @@ using System.Runtime.InteropServices;
 
 namespace GeocodingService
 {
-    public partial class GeocodingService : ServiceBase
+    public partial class GeocodingNTService : ServiceBase
     {
         public int eventId = 0;
-
-        public GeocodingService(string[] args)
+        Controller c1;
+        Controller c2;
+        public GeocodingNTService(string[] args)
         {
             InitializeComponent();
             string eventSourceName = "GeocodingSource";
@@ -34,8 +35,9 @@ namespace GeocodingService
                 System.Diagnostics.EventLog.CreateEventSource(eventSourceName, logName);
             }
             eventLog1.Source = eventSourceName;
-            eventLog1.Log = logName;    
-      
+            eventLog1.Log = logName;
+            c1 = new Controller("Konum1");
+            c2 = new Controller("Konum2");
         }
 
         protected override void OnStart(string[] args)
@@ -43,15 +45,16 @@ namespace GeocodingService
             eventLog1.WriteEntry("In OnStart");
             // Set up a timer to trigger every minute.
             System.Timers.Timer timer = new System.Timers.Timer();
-            timer.Interval = 60000; // 60 seconds
+            timer.Interval = 30000; // 30 seconds
             timer.Elapsed += new System.Timers.ElapsedEventHandler(this.OnTimer);
             timer.Start();
         }
 
         private void OnTimer(object sender, System.Timers.ElapsedEventArgs e)
         {
-            // TODO: Insert monitoring activities here.
-            eventLog1.WriteEntry("Monitoring the System", EventLogEntryType.Information, eventId++);
+            Parallel.Invoke(
+                () => c1.DoOperation(eventLog1),
+                () => c2.DoOperation(eventLog1));
         }
 
         protected override void OnStop()
@@ -62,7 +65,9 @@ namespace GeocodingService
         protected override void OnContinue()
         {
             eventLog1.WriteEntry("In OnContinue.");
-        }  
+        }
+
+
 
         
     }

@@ -1,6 +1,6 @@
 ﻿namespace GeocodingService
 {
-    partial class GeocodingService
+    partial class GeocodingNTService
     {
         /// <summary> 
         /// Required designer variable.

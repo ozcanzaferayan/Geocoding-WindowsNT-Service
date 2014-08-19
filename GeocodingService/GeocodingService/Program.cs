@@ -17,7 +17,7 @@ namespace GeocodingService
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[] 
             { 
-                new GeocodingService(args) 
+                new GeocodingNTService(args) 
             };
             ServiceBase.Run(ServicesToRun);
         }

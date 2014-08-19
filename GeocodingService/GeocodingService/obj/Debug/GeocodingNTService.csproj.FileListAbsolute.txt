@@ -1,0 +1,8 @@
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe.config
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.pdb
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\obj\Debug\GeocodingService.ProjectInstaller.resources
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\obj\Debug\GeocodingNTService.csproj.GenerateResource.Cache
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\obj\Debug\GeocodingService.exe
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\obj\Debug\GeocodingService.pdb
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\obj\Debug\GeocodingService.GeocodingNTService.resources

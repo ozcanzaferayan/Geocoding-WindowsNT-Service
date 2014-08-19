@@ -7,3 +7,6 @@ c:\users\-zaferayan-\documents\visual studio 2012\Projects\GeocodingService\Geoc
 c:\users\-zaferayan-\documents\visual studio 2012\Projects\GeocodingService\GeocodingService\obj\Debug\GeocodingService.pdb
 c:\users\-zaferayan-\documents\visual studio 2012\Projects\GeocodingService\GeocodingService\obj\Debug\GeocodingService.csprojResolveAssemblyReference.cache
 c:\users\-zaferayan-\documents\visual studio 2012\Projects\GeocodingService\GeocodingService\obj\Debug\GeocodingService.ProjectInstaller.resources
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\bin\Debug\GeocodingService.exe.config
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\obj\Debug\GeocodingService.exe
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\GeocodingService\obj\Debug\GeocodingService.pdb

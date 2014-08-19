@@ -1,0 +1,7 @@
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\TestProject\bin\Debug\TestProject.dll
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\TestProject\bin\Debug\TestProject.pdb
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\TestProject\bin\Debug\GeocodingService.exe
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\TestProject\bin\Debug\GeocodingService.pdb
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\TestProject\obj\Debug\GeocodingNTServiceTestProject.csprojResolveAssemblyReference.cache
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\TestProject\obj\Debug\TestProject.dll
+C:\Users\-ZaferAYAN-\Documents\GitHub\Geocoding-WindowsNT-Service\GeocodingService\TestProject\obj\Debug\TestProject.pdb
